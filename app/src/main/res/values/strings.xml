@@ -2,4 +2,7 @@
 <resources>
     <string name="app_name">HelloAndroid</string>
     <string name="hi_world">Hi! world</string>
+    <string name="button_text_toast">Toast</string>
+    <string name="toast_message">Toast message ... </string>
+    <string name="show_google">Show Google</string>
 </resources>

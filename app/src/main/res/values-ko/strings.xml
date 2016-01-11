@@ -2,4 +2,7 @@
 <resources>
     <string name="app_name">헬로안드로이드</string>
     <string name="hi_world">하이! 월드</string>
+    <string name="button_text_toast">토스트</string>
+    <string name="toast_message">토스트 메시지 ... </string>
+    <string name="show_google">Show Google</string>
 </resources>
